@@ -1,4 +1,4 @@
-## Hello, I'm Guilherme Passarinho -💻
+## Hello, I'm Guilherme Passarinho 💻
 
 <img width="860" height="220" alt="image" src="https://github.com/user-attachments/assets/7cc68e7a-163b-4c73-84d4-8cda13d8fdb4" />
 
