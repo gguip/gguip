@@ -1,4 +1,7 @@
 ## Hello, I'm Guilherme Passarinho -💻
+
+<img width="860" height="220" alt="image" src="https://github.com/user-attachments/assets/7cc68e7a-163b-4c73-84d4-8cda13d8fdb4" />
+
 <div align="center">
   <a href="https://github.com/gguip">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gguip&show_icons=true&theme=dracula&include_all_commits=true"/>
