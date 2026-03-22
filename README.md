@@ -1,6 +1,8 @@
 ## Hello, I'm Guilherme Passarinho 💻
 
-<img width="860" height="220" alt="banner" src="https://github.com/user-attachments/assets/7cc68e7a-163b-4c73-84d4-8cda13d8fdb4" />
+<a href="https://gguip-portfolio.vercel.app/" target="_blank">
+  <img width="860" height="220" alt="banner" src="https://github.com/user-attachments/assets/7cc68e7a-163b-4c73-84d4-8cda13d8fdb4" />
+</a>
 
 <br/><br/>
 
